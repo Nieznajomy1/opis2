@@ -1,2 +1,2 @@
 # opis2
-opis2 z opcja ukrycia opisu
+opis2 z opcja ukrycia
